@@ -1,0 +1,5 @@
+// Objective function
+min: + 3*x0 + 9*x1;
+// constraints
+ + 2*x0 + 1*x1 >= 8;
+ + 1*x0 + 2*x1 >= 8;
